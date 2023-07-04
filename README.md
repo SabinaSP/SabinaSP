@@ -1,6 +1,6 @@
 
    <img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png">
-    <h1 align="center">Hi 👋, I'm Sabina Parveen</h1>
+    <h1 align="center">Hi 👋, I'm SDE_Sab`</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="img">
 
